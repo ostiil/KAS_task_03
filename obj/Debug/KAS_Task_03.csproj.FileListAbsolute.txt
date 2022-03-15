@@ -1,0 +1,6 @@
+D:\c#\TrainingPractice_01\KAS_Task_03\bin\Debug\KAS_Task_03.exe.config
+D:\c#\TrainingPractice_01\KAS_Task_03\bin\Debug\KAS_Task_03.exe
+D:\c#\TrainingPractice_01\KAS_Task_03\bin\Debug\KAS_Task_03.pdb
+D:\c#\TrainingPractice_01\KAS_Task_03\obj\Debug\KAS_Task_03.csproj.CoreCompileInputs.cache
+D:\c#\TrainingPractice_01\KAS_Task_03\obj\Debug\KAS_Task_03.exe
+D:\c#\TrainingPractice_01\KAS_Task_03\obj\Debug\KAS_Task_03.pdb
